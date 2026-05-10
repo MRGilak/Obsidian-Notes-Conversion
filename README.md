@@ -1,5 +1,5 @@
 # Obsidian Notes Conversion
-This script can be use to prepare your obsidian notes for being published online. I did search for such a script online when I started keeping my own website, but I could not find any. I hope this helps :)
+This script can be used to prepare your obsidian notes for being published online. I did search for such a script online when I started keeping my own website, but I could not find any. I hope this helps :)
 
 This script:
 - converts wiki-links to standard links. 
