@@ -15,7 +15,7 @@ The easiest way is to just copy your entire Obsidian vault somewhere and pass th
 **_Note_**: Make sure to use a copy of your vault to prevent any unpected tampering with the original files.
 
 ## How to use AI excerpts
-You can use an API key to generate exceprts for your notes. In this case, you just have to create a `.env` file in your directory with your API key inside. After that, you can use the AI excerpt feature with
+You can use an API key to generate excerpts for your notes. In this case, you just have to create a `.env` file in your directory with your API key inside. After that, you can use the AI excerpt feature with
 ```bash
 python convert.py input_folder output_folder --generate-excerpts
 ```
